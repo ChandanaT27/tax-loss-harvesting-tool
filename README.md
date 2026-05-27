@@ -6,6 +6,13 @@ A production-grade Tax Loss Harvesting web application built with **React.js + V
 
 ---
 
+## 🚀 Live Demo
+
+🔗 Deployed Link:  
+https://project-57htp-kmz6dzr0y-chandanat27s-projects.vercel.app/
+
+---
+
 ## Features
 
 - **Pre & After Harvesting cards** — Real-time capital gains comparison
@@ -43,7 +50,20 @@ src/
 ├── main.jsx                   # React entry point
 └── index.css                  # Global styles + Tailwind
 ```
+---
 
+## 📸 Output Screenshots
+
+### Dashboard Overview
+<img width="931" height="481" alt="image 1" src="https://github.com/user-attachments/assets/280d1ec1-a240-4005-be48-648c16d64450" />
+
+
+```md
+<img width="946" height="467" alt="image 2" src="https://github.com/user-attachments/assets/126a8d19-9311-49f0-a134-457a35069fda" />
+
+```
+
+---
 ---
 
 ## Getting Started
